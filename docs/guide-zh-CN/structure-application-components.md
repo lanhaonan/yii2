@@ -103,7 +103,7 @@ Yii 定义了一组固定ID和默认配置的 *核心* 组件，
   如[[yii\db\Connection::dsn]]。
   详情请参考 [数据访问对象](db-dao.md) 一节。
 * [[yii\base\Application::errorHandler|errorHandler]]: 处理 PHP 错误和异常，
-  详情请参考 [错误处理](tutorial-handling-errors.md) 一节。
+  详情请参考 [错误处理](runtime-handling-errors.md) 一节。
 * [[yii\i18n\Formatter|formatter]]: 格式化输出显示给终端用户的数据，例如数字可能要带分隔符，
   日期使用长格式。
   详情请参考 [格式化输出数据](output-formatting.md) 一节。
